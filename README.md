@@ -41,5 +41,8 @@ A wearable belt Buckle fore Self Protection
     
 (7) BUILT WITH 
 	: * Auto desk fuson-360 .
-	  * Git hub .
+	  * Python
+	  * Figma
 	  * Twilio
+	![Screenshot (54)](https://user-images.githubusercontent.com/75155661/143771830-09f91904-550e-4849-9143-1dba99be1a7f.png)
+  
